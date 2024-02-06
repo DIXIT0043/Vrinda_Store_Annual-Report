@@ -23,5 +23,4 @@ are max contributing (—80%)
 Final Conclusion to improve Vrinda store sales:
 Target women customers of age group (30-49 yrs) li
 Maharashtra, Karnataka and Uttar Pradesh by showing
-ads/offers/coupons available on Amazon, Flipkart and Myntra
-![image](https://github.com/DIXIT0043/Vrinda_Store_Annual-Report/assets/107348377/354eba33-24a4-4e91-a6fd-a6dae72f043a)
+ads/offers/coupons available on Amazon, Flipkart and Myntra.
